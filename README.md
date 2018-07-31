@@ -5,4 +5,22 @@ This assignment will help you learn HTML, CSS and how to combine it to make beau
 
 ## Requirement
 
-You have to make website like this image
+You have to make website like this
+
+![demo image](assets/demo/demo.png "Logo Title Text 1")
+
+## References
+1. **Font:** [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+2. **Icon:**  [Font Awesomes](https://fontawesome.com/icons)
+3. **Images:** You don't need to follow exactly images in image. You can use another images in [Unplash](https://unsplash.com/search/photos/flash)
+
+## Considerations - What are we looking for?
+
+- How do you init small web project
+- You can apply HTML and CSS knowledge to create your web frontend
+
+## Submission
+
+1. Pull this repo https://github.com/thminhVN/frontend-assignment to your machine
+2. Create new branch with this convension: **feature/your-fullname**. Example: *feature/tran-huu-minh*
+3. Create Pull Request (please field all information base on PR template) and request me review
