@@ -15,8 +15,8 @@ READY / IN DEVELOPMENT / HOLD
 
 #### What's this PR do?
 
-- [x] Add new routes for user
-- [ ] Add instruction for using docker-compose
+- [x] Finish desktop version
+- [ ] Create website responsive
 - [ ] ...
 
 #### Where should the reviewer start?

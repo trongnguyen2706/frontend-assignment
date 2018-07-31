@@ -12,12 +12,15 @@ You have to make website like this
 ## References
 1. **Font:** [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 2. **Icon:**  [Font Awesomes](https://fontawesome.com/icons)
-3. **Images:** You don't need to follow exactly images in image. You can use another images in [Unplash](https://unsplash.com/search/photos/flash)
+3. **Image:** You can choose what images you want here [Unplash](https://unsplash.com/search/photos/flash)
 
 ## Considerations - What are we looking for?
 
 - How do you init small web project
 - You can apply HTML and CSS knowledge to create your web frontend
+
+## Deadline
+- 02/08/2018 23h:59
 
 ## Submission
 
